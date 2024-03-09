@@ -116,6 +116,7 @@ normal_progs='
     split
     stat
     sum
+    swap
     sync
     tac
     tail
